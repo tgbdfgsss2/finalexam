@@ -1,0 +1,9 @@
+{
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.fontSize": 14,
+    "window.zoomLevel": 0,
+    "telemetry.enableTelemetry": false,
+    "editor.formatOnSave": true,
+    "git.ignoreLegacyWarning": true
+}
